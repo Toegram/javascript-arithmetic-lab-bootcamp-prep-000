@@ -1,6 +1,6 @@
 var a = 60
 var b = 41
-var n = 0
+
 
 function add(a,b) {
   return a += b;
@@ -28,7 +28,7 @@ function dec(n) {
   return n;
 }
 
-function makeInt(10) {
+function makeInt(n) {
   parseInt('n');
   return n;
 }

@@ -28,7 +28,7 @@ function dec(n) {
   return n;
 }
 
-function makeInt(10) {
+function makeInt(n) {
   parseInt('n');
   return n;
 }

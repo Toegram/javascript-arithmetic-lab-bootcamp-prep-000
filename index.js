@@ -29,6 +29,4 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  n -= 0.687;
-  return n;
-}
+ 

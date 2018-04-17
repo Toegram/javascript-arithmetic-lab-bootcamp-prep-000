@@ -1,6 +1,6 @@
 var a = 60
 var b = 41
-var n = 100
+var n = 0
 
 function add(a,b) {
   return a += b;
